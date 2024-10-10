@@ -9,7 +9,7 @@ Steps to run the project
 
     Download or Clone the repository:
 
-$ git clone https://github.com/ChandgudeNishant/koinx-task-backend.git
+$ git clone https:https://github.com/karantec/koinXBackend.git
 
     Install all the required dependencies:
 
